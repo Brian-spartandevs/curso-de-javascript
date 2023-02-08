@@ -43,9 +43,9 @@ const PI = 3,14; */
 
 Numeros -> let numero = 5;
 
-strings(cadenas) -> let palabra = 'hola'; let palabra = "hola;" 
+strings(cadenas) -> let palabra = 'hola'; let palabra = "hola"; 
 
-boolean -> let respuesta = true; let respuesta = false
+boolean -> let respuesta = true; let respuesta = false;
 
 Undefined
 
