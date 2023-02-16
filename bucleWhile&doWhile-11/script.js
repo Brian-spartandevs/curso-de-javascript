@@ -47,8 +47,8 @@ let pass = '';
 
 console.log('fin del bucle'); */
 
-do{
+/* do{
     pass = prompt('introduzca su contraseña');
 }while(pass != 'hola')
 
-console.log('fin del bucle');
+console.log('fin del bucle'); */
