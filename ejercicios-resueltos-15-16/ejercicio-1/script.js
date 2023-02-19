@@ -7,13 +7,10 @@ console.log(`Hola ${name} tienes ${age} años y el año que viene tendrás ${age
 
 let nombre = prompt('Hola, cual es tu nombre?');
 let edad = parseInt(prompt(`${nombre}, Cual es tu edad?`));
-let contador = 0;
 
 if(nombre!=''){
     if(edad>=0){
-        for(let i=contador;i<1;i++){
             alert(`Hola ${nombre}, tienes ${edad} años y el año que viene tendras ${edad+1} años`);
-        }
     }else{
         console.log('Error, Este campo no admite este valor');
     }
