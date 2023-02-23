@@ -1,3 +1,9 @@
+/* Introduccion a objetos */
+
+/* Un objeto es una estructura de datos que representa propiedades, valores y acciones que puede realizar el objeto. Todos los objetos tienen porpiedades o atributos  comportamientos o acciones representados por pares de claves (key) : valor (value)
+Para acceder a las propiedades o acciones del obejto se utiliza la nomenclatura del punto
+*/
+
 const person = {
     name: 'Juan',
     age: 26,
