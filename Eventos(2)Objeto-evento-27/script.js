@@ -13,7 +13,7 @@ const button = document.getElementById("button");
 /* const gallery = document.getElementById("gallery");
 
 gallery.addEventListener("click", (e) => {
-  e.target.classList.add("red", "green");
+  e.target.classList.add("red");
 }); */
 
 const link = document.getElementById("link");
