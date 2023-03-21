@@ -9,7 +9,8 @@
         g: Global. Busca de forma global, es decir, no se para despues de la primera coincidencia
 */
 
-const text = document.getElementById('text').text
+const text = document.getElementById('text').textContent
+
 const regEx = /lorem/gi
 
 console.log(regEx.test(text))
